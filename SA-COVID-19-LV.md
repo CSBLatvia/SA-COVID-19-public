@@ -29,11 +29,11 @@ Krīzes laiks ir īpašs ar to, ka mēs nesaņemsim jaunu informāciju par sezon
 Lai tehniski "iesaldētu" sezonalitāti un neveiktu sezonalitātes pārrēķināšanu ar krīzes perioda datiem, var lietot divas metodes:
 
 1. Primārā metode - visi laikrindas punkti krīzes ietekmes periodā tiek definēti kā izlēcēji. Šajā gadījumā izlēcējs krīzes ietekmes punktā tiek pievienots arī tad, ja tā novērtējums ir nenozīmīgs.
-1. Sekundārā metode - [laikrindas modeļa fiksēšana](https://jdemetradocumentation.github.io/JDemetra-documentation/pages/case-studies/revision-fixed.html) (vadlīnijās un JDemetra+ to sauc par *Current Adjustment* vai *Fixed Model*). Pielietojot šo metodi, tiek fiksēti izlēcēju un citu regresoru koeficientu novērtējumi. Tie netiek pārrēķināti ar jaunajiem datiem. Procedūra nepievieno jaunus izlēcējus, bet lietotājs tos var pievienot manuāli.
+1. Sekundārā metode - [laikrindas modeļa fiksēšana](https://jdemetradocumentation.github.io/JDemetra-documentation/pages/case-studies/revision-fixed.html) (vadlīnijās un [JDemetra+](https://github.com/jdemetra) to sauc par *Current Adjustment* vai *Fixed Model*). Pielietojot šo metodi, tiek fiksēti izlēcēju un citu regresoru koeficientu novērtējumi. Tie netiek pārrēķināti ar jaunajiem datiem. Procedūra nepievieno jaunus izlēcējus, bet lietotājs tos var pievienot manuāli.
 
 Abos gadījumos mēs sezonālās koriģēšanas algoritmam (programmā [JDemetra+](https://github.com/jdemetra)) "paziņojam", ka laikrindas krīzes ietekmes perioda vērtības nav izmantojamas sezonalitātes pārrēķināšanai.
 
-Izmantotās metodes ir saskaņotas ar Eiropas Statistikas biroja (*Eurostat*) publicētajām krīzes vadlīnijām (*[Guidance on time series treatment in the context of the Covid-19 crisis](https://ec.europa.eu/eurostat/data/metadata/covid-19-support-for-statisticians)*) un ESS Sezonālās koriģēšanas palīdzības dienestu (*[ESS Seasonal Adjustment Helpdesk](https://ec.europa.eu/eurostat/cros/content/ess-seasonal-adjustment-helpdesk_en)*).
+Izmantotās metodes ir saskaņotas ar Eiropas Statistikas biroja (*Eurostat*) publicētajām krīzes vadlīnijām (*[Guidance on time series treatment](https://ec.europa.eu/eurostat/documents/10186/10693286/Time_series_treatment_guidance.pdf)*) un ESS Sezonālās koriģēšanas palīdzības dienestu (*[ESS Seasonal Adjustment Helpdesk](https://ec.europa.eu/eurostat/cros/content/ess-seasonal-adjustment-helpdesk_en)*).
 
 
 # Tendences novērtēšana krīzes laikā
@@ -66,6 +66,6 @@ Jāpiebilst, ka tendences novērtēšana laikrindas sākuma vai beigu punktos na
 
 - ESS SA Helpdesk (2019) [A brief description of JDemetra+](https://jdemetradocumentation.github.io/JDemetra-documentation/)
 - Eurostat (2015) [ESS guidelines on seasonal adjustment](https://ec.europa.eu/eurostat/web/products-manuals-and-guidelines/-/KS-RA-09-006), section *2.8. Treatment of outliers at the end of the series and at the beginning of a major economic change*
-- Eurostat (2020) [Guidance on time series treatment in the context of the Covid-19 crisis](https://ec.europa.eu/eurostat/data/metadata/covid-19-support-for-statisticians)
-- Eurostat (2020) [Data collection for the EU-Labour Force Survey in the context of the Covid-19 crisis](https://ec.europa.eu/eurostat/data/metadata/covid-19-support-for-statisticians)
+- Eurostat (2020) [Guidance on time series treatment](https://ec.europa.eu/eurostat/documents/10186/10693286/Time_series_treatment_guidance.pdf)
+- Eurostat (2020) [Guidance on the EU-Labour Force Survey data collection](https://ec.europa.eu/eurostat/documents/10186/10693286/LFS_guidance.pdf)
 - Statistics Norway (2020) [Seasonal adjustment during the Corona crisis](https://github.com/statisticsnorway/SeasonalAdjustmentCorona)

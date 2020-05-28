@@ -1,6 +1,7 @@
 # Laikrindu sezonālā koriģēšana COVID-19 krīzes laikā
 
 **Centrālā statistikas pārvalde**
+
 2020. gada 28. maijs
 
 

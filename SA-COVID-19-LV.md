@@ -21,9 +21,9 @@ Laikrindu koriģēšanas problemātiku krīzes laikā var sadalīt divās daļā
 
 Parasti ar katru jaunu datu punktu (periodu) mēs saņem jaunu informāciju par laikrindu. Attiecīgi ar katru jaunu datu punktu ir iespēja pārrēķināt sezonālos un kalendāros efektus, ņemot vērā jauno informāciju. Pastāv dažādas prakses attiecībā uz sezonālo un kalendāro efektu pārrēķināšanu. CSP sezonālos un kalendāros efektus pārrēķina ar katru papildus datu punktu.
 
-Krīzes laiks ir īpašs ar to, ka mēs nesaņemsim jaunu informāciju par sezonalitāti (tai skaitā par kalendārajiem efektiem). Tas ir tāpēc, ka krīze nav sezonāla. Lielas krīzes (tai skaitā COVID-19 krīze) ir retas parādības, kuras nenotiek katru gadu ar vienu un to pašu periodiskumu[^1].
+Krīzes laiks ir īpašs ar to, ka mēs nesaņemsim jaunu informāciju par sezonalitāti (tai skaitā par kalendārajiem efektiem). Tas ir tāpēc, ka krīze nav sezonāla. Lielas krīzes (tai skaitā COVID-19 krīze) ir retas parādības, kuras nenotiek katru gadu ar vienu un to pašu periodiskumu.
 
-[^1]: Te gan jāpiebilst, ka izskan hipotēze par to, ka šāda vīrusa epidēmija var kļūt sezonāla. Ja piepildīsies šāds scenārijs, tad vīrusu epidēmijas krīzes efekti tiks koriģēti kā sezonāli efekti. Krīzes laikā nesaņemam aktuālu informāciju par sezonalitāti, attiecīgi laikrindas sezonalitāti varam novērtēt tikai no datiem līdz krīzes sākumam.
+Te gan jāpiebilst, ka izskan hipotēze par to, ka šāda vīrusa epidēmija var kļūt sezonāla. Ja piepildīsies šāds scenārijs, tad vīrusu epidēmijas krīzes efekti tiks koriģēti kā sezonāli efekti. Krīzes laikā nesaņemam aktuālu informāciju par sezonalitāti, attiecīgi laikrindas sezonalitāti varam novērtēt tikai no datiem līdz krīzes sākumam.
 
 Lai tehniski "iesaldētu" sezonalitāti un neveiktu sezonalitātes pārrēķināšanu ar krīzes perioda datiem, var lietot divas metodes:
 

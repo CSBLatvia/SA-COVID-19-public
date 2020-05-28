@@ -1,5 +1,7 @@
 ---
 title: Laikrindu sezonālā koriģēšana COVID-19 krīzes laikā
+author: Centrālā statistikas pārvalde
+date: 2020. gada 28. maijs
 ---
 
 # Ievads

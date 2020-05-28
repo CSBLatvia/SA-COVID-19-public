@@ -1,10 +1,10 @@
----
-title: Laikrindu sezonālā koriģēšana COVID-19 krīzes laikā
-author: Centrālā statistikas pārvalde
-date: 2020. gada 28. maijs
----
+# Laikrindu sezonālā koriģēšana COVID-19 krīzes laikā
 
-# Ievads
+**Centrālā statistikas pārvalde**
+2020. gada 28. maijs
+
+
+## Ievads
 
 Laikrindu sezonālās un kalendārās koriģēšanas primārie mērķi ir:
 
@@ -18,7 +18,7 @@ Sekundārais mērķis ir:
 Laikrindu koriģēšanas problemātiku krīzes laikā var sadalīt divās daļās - sezonālā koriģēšana (šeit un turpmāk, ietverot kalendāro koriģēšanu) un tendences novērtēšana.
 
 
-# Laikrindu sezonālā koriģēšana krīzes laikā
+## Laikrindu sezonālā koriģēšana krīzes laikā
 
 Parasti ar katru jaunu datu punktu (periodu) mēs saņem jaunu informāciju par laikrindu. Attiecīgi ar katru jaunu datu punktu ir iespēja pārrēķināt sezonālos un kalendāros efektus, ņemot vērā jauno informāciju. Pastāv dažādas prakses attiecībā uz sezonālo un kalendāro efektu pārrēķināšanu. CSP sezonālos un kalendāros efektus pārrēķina ar katru papildus datu punktu.
 
@@ -36,7 +36,7 @@ Abos gadījumos mēs sezonālās koriģēšanas algoritmam (programmā [JDemetra
 Izmantotās metodes ir saskaņotas ar Eiropas Statistikas biroja (*Eurostat*) publicētajām krīzes vadlīnijām (*[Guidance on time series treatment](https://ec.europa.eu/eurostat/documents/10186/10693286/Time_series_treatment_guidance.pdf)*) un ESS Sezonālās koriģēšanas palīdzības dienestu (*[ESS Seasonal Adjustment Helpdesk](https://ec.europa.eu/eurostat/cros/content/ess-seasonal-adjustment-helpdesk_en)*).
 
 
-# Tendences novērtēšana krīzes laikā
+## Tendences novērtēšana krīzes laikā
 
 Krīzei uz laikrindas tendenci var būt divējāda ietekme:
 
@@ -48,7 +48,7 @@ Krīzes laikā (īpaši krīzes sākumā) ar matemātisku metožu palīdzību na
 Jāpiebilst, ka tendences novērtēšana laikrindas sākuma vai beigu punktos nav ieteicama. Tendences novērtējumi (īpaši krīzes laikā) var būt neprecīzi un pakļauti lielām revīzijām.
 
 
-# Kopsavilkums
+## Kopsavilkums
 
 - COVID-19 krīze laikrindu analīzes jomā šobrīd tiek uzskatīta kā notikums, kas nav sezonāls. Attiecīgi krīzes ietekme netiek izslēgta no datiem, veicot sezonālo koriģēšanu.
 
@@ -62,7 +62,7 @@ Jāpiebilst, ka tendences novērtēšana laikrindas sākuma vai beigu punktos na
 
 
 
-# Literatūra
+## Literatūra
 
 - ESS SA Helpdesk (2019) [A brief description of JDemetra+](https://jdemetradocumentation.github.io/JDemetra-documentation/)
 - Eurostat (2015) [ESS guidelines on seasonal adjustment](https://ec.europa.eu/eurostat/web/products-manuals-and-guidelines/-/KS-RA-09-006), section *2.8. Treatment of outliers at the end of the series and at the beginning of a major economic change*

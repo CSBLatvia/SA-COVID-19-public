@@ -19,7 +19,7 @@ Laikrindu koriģēšanas problemātiku krīzes laikā var sadalīt divās daļā
 
 ## Laikrindu sezonālā koriģēšana krīzes laikā
 
-Parasti ar katru jaunu datu punktu (periodu) mēs saņem jaunu informāciju par laikrindu. Attiecīgi ar katru jaunu datu punktu ir iespēja pārrēķināt sezonālos un kalendāros efektus, ņemot vērā jauno informāciju. Pastāv dažādas prakses attiecībā uz sezonālo un kalendāro efektu pārrēķināšanu. CSP sezonālos un kalendāros efektus pārrēķina ar katru papildus datu punktu.
+Parasti ar katru jaunu datu punktu (periodu) mēs saņemam jaunu informāciju par laikrindu. Attiecīgi ar katru jaunu datu punktu ir iespēja pārrēķināt sezonālos un kalendāros efektus, ņemot vērā jauno informāciju. Pastāv dažādas prakses attiecībā uz sezonālo un kalendāro efektu pārrēķināšanu. CSP sezonālos un kalendāros efektus pārrēķina ar katru papildus datu punktu.
 
 Krīzes laiks ir īpašs ar to, ka mēs nesaņemsim jaunu informāciju par sezonalitāti (tai skaitā par kalendārajiem efektiem). Tas ir tāpēc, ka krīze nav sezonāla. Lielas krīzes (tai skaitā COVID-19 krīze) ir retas parādības, kuras nenotiek katru gadu ar vienu un to pašu periodiskumu.
 
@@ -27,7 +27,7 @@ Te gan jāpiebilst, ka izskan hipotēze par to, ka šāda vīrusa epidēmija var
 
 Lai tehniski "iesaldētu" sezonalitāti un neveiktu sezonalitātes pārrēķināšanu ar krīzes perioda datiem, var lietot divas metodes:
 
-1. Primārā metode - visi laikrindas punkti krīzes ietekmes periodā tiek definēti kā izlēcēji. Šajā gadījumā izlēcējs krīzes ietekmes punktā tiek pievienots arī tad, ja tā novērtējums ir nenozīmīgs.
+1. Primārā metode - visi laikrindas punkti, kurus ietekmē krīze, tiek definēti kā izlēcēji. Šajā gadījumā izlēcējs krīzes ietekmes punktā tiek pievienots arī tad, ja tā novērtējums ir nenozīmīgs. Jāpiebilst, ka ir laikrindas, kurām ietekme no krīzes nav ekonomiski pamatota. Tādā gadījumā izlēcēji netiek uzspiesti. Kā arī punktu skaits, kurus ietekmē krīze, dažādām laikrindām var būt atšķirīgs.
 1. Sekundārā metode - [laikrindas modeļa fiksēšana](https://jdemetradocumentation.github.io/JDemetra-documentation/pages/case-studies/revision-fixed.html) (vadlīnijās un [JDemetra+](https://github.com/jdemetra) to sauc par *Current Adjustment* vai *Fixed Model*). Pielietojot šo metodi, tiek fiksēti izlēcēju un citu regresoru koeficientu novērtējumi. Tie netiek pārrēķināti ar jaunajiem datiem. Procedūra nepievieno jaunus izlēcējus, bet lietotājs tos var pievienot manuāli.
 
 Abos gadījumos mēs sezonālās koriģēšanas algoritmam (programmā [JDemetra+](https://github.com/jdemetra)) "paziņojam", ka laikrindas krīzes ietekmes perioda vērtības nav izmantojamas sezonalitātes pārrēķināšanai.

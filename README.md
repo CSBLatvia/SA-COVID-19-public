@@ -1,1 +1,2 @@
-[Laikrindu sezonālā koriģēšana COVID-19 krīzes laikā](SA-COVID-19-LV.md)
+- [Laikrindu sezonālā koriģēšana COVID-19 krīzes laikā](SA-COVID-19-LV.md)
+- [Seasonal Adjustment of Time Series During COVID-19 Crisis](SA-COVID-19-EN.md)

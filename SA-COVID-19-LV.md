@@ -1,8 +1,13 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
 # Laikrindu sezonālā koriģēšana COVID-19 krīzes laikā
 
 **Centrālā statistikas pārvalde**
 
-*2020. gada 9. jūnijs*
+*2020. gada 23. jūlijs*
 
 
 ## Ievads
@@ -27,7 +32,7 @@ Centrālā statistikas pārvalde (CSP) laikrindu sezonālo un kalendāro koriģ�
 
 Parasti ar katru jaunu datu punktu (periodu) mēs saņemam jaunu informāciju par laikrindu. Attiecīgi ar katru jaunu datu punktu ir iespēja pārrēķināt sezonālos un kalendāros efektus, ņemot vērā jauno informāciju. Pastāv dažādas prakses attiecībā uz sezonālo un kalendāro efektu pārrēķināšanu. CSP sezonālos un kalendāros efektus pārrēķina ar katru papildus datu punktu.
 
-Krīzes laiks ir īpašs ar to, ka mēs nesaņemam jaunu informāciju par sezonalitāti (tai skaitā par kalendārajiem efektiem). Tas ir tāpēc, ka krīze nav sezonāla. Lielas krīzes (tai skaitā COVID-19 krīze) ir retas parādības, kuras nenotiek katru gadu ar vienu un to pašu periodiskumu.
+Krīzes laiks ir īpašs ar to, ka mēs nesaņemam jaunu informāciju par sezonalitāti (tai skaitā par kalendārajiem efektiem). Tas ir tāpēc, ka krīze nav sezonāla. Lielas krīzes (tai skaitā COVID-19 krīze) ir retas parādības, kuras nenotiek katru gadu.
 
 *Te gan jāpiebilst, ka izskan hipotēze par to, ka šāda vīrusa epidēmija var kļūt sezonāla. Ja piepildīsies šāds scenārijs, tad vīrusu epidēmijas krīzes efekti tiks koriģēti kā sezonāli efekti.*
 

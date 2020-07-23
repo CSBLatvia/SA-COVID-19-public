@@ -1,8 +1,3 @@
----
-output:
-  word_document: default
-  html_document: default
----
 # Laikrindu sezonālā koriģēšana COVID-19 krīzes laikā
 
 **Centrālā statistikas pārvalde**

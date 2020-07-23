@@ -1,8 +1,3 @@
----
-output:
-  word_document: default
-  html_document: default
----
 # Seasonal Adjustment of Time Series During COVID-19 Crisis
 
 **Central Statistical Bureau of Latvia**

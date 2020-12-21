@@ -2,8 +2,8 @@
 
 **Central Statistical Bureau of Latvia**
 
-*23 July 2020*
-*21 December 2020* (update)
+- *23 July 2020*
+- *21 December 2020* (update)
 
 ## Introduction
 

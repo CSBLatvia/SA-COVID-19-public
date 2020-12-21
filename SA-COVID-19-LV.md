@@ -20,7 +20,7 @@ Laikrindu koriģēšanas problemātiku krīzes laikā var sadalīt divās daļā
 
 Lai arī krīze ietekmē gandrīz visus ekonomiskos un sociālos procesus, tomēr ir laikrindas, kurām  krīzes ietekme nav ekonomiski pamatojama. Šādas laikrindas krīzes laikā tiek koriģētas atbilstoši standarta procedūrām. Turpmākais dokumenta saturs attiecas tikai uz laikrindām, kurām krīzes ietekme ir ekonomiski pamatojama.
 
-Centrālā statistikas pārvalde (CSP) laikrindu sezonālo un kalendāro koriģēšanu veic ar programmu [JDemetra+ 2.2.2](https://github.com/jdemetra/jdemetra-app/releases), izmantojot [TRAMO-SEATS metodi](https://jdemetradocumentation.github.io/JDemetra-documentation/pages/theory/).
+Centrālā statistikas pārvalde (CSP) laikrindu sezonālo un kalendāro koriģēšanu veic ar programmu [JDemetra+ 2.2.3](https://github.com/jdemetra/jdemetra-app/releases), izmantojot [TRAMO-SEATS metodi](https://jdemetradocumentation.github.io/JDemetra-documentation/pages/theory/).
 
 
 ## Laikrindu sezonālā koriģēšana krīzes laikā

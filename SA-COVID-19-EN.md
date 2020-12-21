@@ -3,6 +3,7 @@
 **Central Statistical Bureau of Latvia**
 
 *23 July 2020*
+*21 December 2020* (update)
 
 ## Introduction
 
@@ -19,7 +20,7 @@ The issue of time series adjustment during the crisis can be split into two part
 
 Although the crisis affects almost all economic and social processes, there are time series for which the impact of the crisis is not economically justified. Such time series during the crisis are adjusted according to standard procedures. The content of the document below only applies to time series for which the impact of the crisis is economically justified.
 
-The Central Statistical Bureau of Latvia (CSB) currently performs seasonal and calendar adjustments with the [JDemetra+ 2.2.2](https://github.com/jdemetra/jdemetra-app/releases) using the [TRAMO-SEATS method](https://jdemetradocumentation.github.io/JDemetra-documentation/pages/theory/).
+The Central Statistical Bureau of Latvia (CSB) currently performs seasonal and calendar adjustments with the [JDemetra+ 2.2.3](https://github.com/jdemetra/jdemetra-app/releases) using the [TRAMO-SEATS method](https://jdemetradocumentation.github.io/JDemetra-documentation/pages/theory/).
 
 
 ## Seasonal Adjustment of Time Series During Crisis

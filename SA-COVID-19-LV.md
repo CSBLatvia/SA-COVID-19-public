@@ -3,7 +3,7 @@
 **Centrālā statistikas pārvalde**
 
 *2020. gada 23. jūlijs*
-
+*2020. gada 21. decembris* (labojums)
 
 ## Ievads
 

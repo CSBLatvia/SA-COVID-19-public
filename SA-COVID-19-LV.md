@@ -38,6 +38,8 @@ Krīzes laikā laikrindu sezonalitāti varam novērtēt tikai no datiem līdz kr
 
 Pārsvarā visos gadījumos tiek lietota primārā metode. Gadījumos, kad papildus sezonālajai koriģēšanai ir nepieciešams laikrindas tendences novērtējums, tiek lietota sekundārā metode. Abos gadījumos mēs sezonālās koriģēšanas algoritmam (programmā [JDemetra+](https://github.com/jdemetra)) "paziņojam", ka laikrindas krīzes ietekmes perioda vērtības nav izmantojamas sezonalitātes pārrēķināšanai. Izmantotās metodes ir saskaņotas ar Eiropas Statistikas biroja (*Eurostat*) publicētajām krīzes vadlīnijām (*[Guidance on time series treatment](https://ec.europa.eu/eurostat/documents/10186/10693286/Time_series_treatment_guidance.pdf)*) un ESS Sezonālās koriģēšanas palīdzības dienestu (*[ESS Seasonal Adjustment Helpdesk](https://ec.europa.eu/eurostat/cros/content/ess-seasonal-adjustment-helpdesk_en)*).
 
+Pārskata izlēcēju tipu (AO, LS vai TC) krīzes periodam atbilstoši datiem un statistikas ražotāju sniegtajai informācijai.
+
 
 ## Tendences novērtēšana krīzes laikā
 

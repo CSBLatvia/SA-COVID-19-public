@@ -38,7 +38,7 @@ During the crisis, we can only assess the seasonality of time series from data t
 
 In most cases, the primary method is used. In cases where, in addition to seasonal adjustment, a time series trend estimation is required, a secondary method is used. In both cases, we declare to the seasonal adjustment algorithm (in the [JDemetra+](https://github.com/jdemetra)) that the values of the crisis period of time series cannot be used to recalculate seasonality. Both methods are consistent with the crisis guidelines published by the Statistical Office of the European Union (*Eurostat*) and confirmed by the [ESS Seasonal Adjustment Helpdesk](https://ec.europa.eu/eurostat/cros/content/ess-seasonal-adjustment-helpdesk_en).
 
-Review the type of outliers (AO, LS or TC) for the crisis period according to the data and information provided by the statistical producers.
+Review outliers for the crisis period according to the data and information provided by the statistical producers.
 
 
 ## Trend Estimation During Crisis
